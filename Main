@@ -1,0 +1,14 @@
+#include <Ultrasonic.h>
+#include <HX711.h>
+
+
+
+
+
+
+
+
+
+
+
+const int pinoSensor = 8; //Pino utilizado pelo sensor infravermelho
