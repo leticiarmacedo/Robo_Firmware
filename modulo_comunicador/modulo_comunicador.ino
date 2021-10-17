@@ -1,7 +1,7 @@
 #include <ArduinoWebsockets.h>
 
-const char* ssid = "TP-Link_8A8C"; // Nome da rede wi-fi
-const char* password = "4123456789"; // Senha da rede  wi-fi
+const char* ssid = "RedeWifidoSistema"; // Nome da rede wi-fi
+const char* password = "Batatinha1,2,3"; // Senha da rede  wi-fi
 char* ssid_mesa = ""; //ID da mesa
 const char* websockets_server_host = "192.168.1.107"; // IP local do servidor websocket
 const int websockets_server_port = 8091; // Porta de conexão do servidor (deve ser a mesma do back-end!)
